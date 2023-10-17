@@ -5,8 +5,6 @@
 
 
 
-
-
 I am excited to apply my skills and knowledge as a web developer and machine learning engineer. With a strong background in programming languages such as Python, C/C++, and Node.js, as well as experience in machine learning, web development, and data science, I am confident in my ability to deliver outstanding results. My experience in data structures and networking concepts further enhances my skillset. I am eager to continue learning and growing in this field and am excited for the opportunity to make a positive impact.
 
 
