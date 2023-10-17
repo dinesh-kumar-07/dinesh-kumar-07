@@ -1,13 +1,13 @@
 <h1 align="center"> Hi ! <img width="4%" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> I'm Dinesh Kumar M R</h1>
 
-<h3 align="center">A passionate ML Engineer, Web developer from India</h3>
+<h3 align="center">A passionate ML Engineer, Software developer from India</h3>
 
 
 
 
 
 
-I am excited to apply my skills and knowledge as a web developer and machine learning engineer. With a strong background in programming languages such as Python, JavaScript, and Node.js, as well as experience in machine learning, web development, and data analysis, I am confident in my ability to deliver outstanding results. My experience in Linux and virtual machines and understanding of cyber security further enhances my skillset. I am eager to continue learning and growing in this field and am excited for the opportunity to make a positive impact.
+I am excited to apply my skills and knowledge as a web developer and machine learning engineer. With a strong background in programming languages such as Python, C/C++, and Node.js, as well as experience in machine learning, web development, and data science, I am confident in my ability to deliver outstanding results. My experience in data structures and networking concepts further enhances my skillset. I am eager to continue learning and growing in this field and am excited for the opportunity to make a positive impact.
 
 
 
@@ -39,7 +39,7 @@ I am excited to apply my skills and knowledge as a web developer and machine lea
 
 - 📫 How to reach me **dinesh.kumarmr2912@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/nalinrajendran/me/blob/main/images/Nalin's%20Resume.pdf](https://github.com/nalinrajendran/me/blob/main/images/Nalin's%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/e/2PACX-1vSmlVQ_Duu2SQFa6QGlUX9TvWlsa71XSn7r-PZbYMD8mMjQgzZ4YbjaFbwkb8_-zw/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
