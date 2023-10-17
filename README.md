@@ -31,8 +31,6 @@ I am excited to apply my skills and knowledge as a web developer and machine lea
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinesh-kumar-07](https://github.com/dinesh-kumar-07)
 
-- 🤖 Have a look at my portfolio [https://nalinrajendran.github.io/me/](https://nalinrajendran.github.io/me/)
-
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **dinesh.kumarmr2912@gmail.com**
