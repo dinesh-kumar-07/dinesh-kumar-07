@@ -29,7 +29,7 @@ I am excited to apply my skills and knowledge as a web developer and machine lea
 
 - 👯 I’m looking to collaborate on **more ML and DL projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dinesh-kumar-07](https://github.com/dinesh-kumar-07)
+- 👨‍💻 All of my projects are available at [https://github.com/dinesh-kumar-mr](https://github.com/dinesh-kumar-mr)
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
