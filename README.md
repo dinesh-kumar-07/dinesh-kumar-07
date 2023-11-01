@@ -34,8 +34,7 @@ I am excited to apply my skills and knowledge as a web developer and machine lea
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **dinesh.kumarmr2912@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/e/2PACX-1vSmlVQ_Duu2SQFa6QGlUX9TvWlsa71XSn7r-PZbYMD8mMjQgzZ4YbjaFbwkb8_-zw/pub)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
